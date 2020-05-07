@@ -1,4 +1,6 @@
-ajnx.github.io
+ooga booga
 ==============
 
 Website using Jekyll (from scratch)
+
+:)
