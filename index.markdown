@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This is a test home page. This is a [duck](https://duckduckgo.com/).
