@@ -38,7 +38,7 @@ minima:
 skin: dark
 
 header_pages:
-  - home.markdown
+  - index.markdown
   - about.markdown
   - test.markdown
 
