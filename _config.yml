@@ -41,7 +41,7 @@ header_pages:
   #- index.markdown
   #- ADD POSTS
   - about.markdown
-  #- ADD CONTACT
+  - contact.markdown
   #- test.markdown
 
 # Exclude from processing.
