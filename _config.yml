@@ -38,8 +38,10 @@ minima:
 skin: dark
 
 header_pages:
-  - index.markdown
+  #- index.markdown
+  #- ADD POSTS
   - about.markdown
+  #- ADD CONTACT
   #- test.markdown
 
 # Exclude from processing.
