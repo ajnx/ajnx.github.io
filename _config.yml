@@ -34,8 +34,6 @@ github_username:
 theme: minima
 plugins:
   - jekyll-feed
-minima:
-skin: dark
 
 header_pages:
   #- index.markdown
@@ -43,6 +41,10 @@ header_pages:
   - about.markdown
   - contact.markdown
   #- test.markdown
+
+# Collection settings
+collections:
+  authors:
 
 # Exclude from processing.
 # The following items will not be processed, by default.
